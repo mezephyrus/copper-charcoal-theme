@@ -34,6 +34,6 @@ A meticulously crafted dark theme for the Zed editor, designed to balance deep c
 
 ### 5. Theme Preview
 
-![Code example 1](./assets/SCR-20261004-rqia.png)
+![Code example 1](./assets/SCR-20261006-pwoq.png)
 
-![Code example 2](./assets/SCR-20261004-rqxq.png)
+![Code example 2](./assets/SCR-20261006-pxdd.png)
