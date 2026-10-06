@@ -1,0 +1,7 @@
+id = "copper-charcoal"
+name = "Copper Charcoal"
+version = "0.1.0"
+schema_version = 1
+authors = ["mezephyrus (Anton Zavalniuk) <zavalniuk.pro@gmail.com>"]
+description = "A warm charcoal dark theme with copper accents"
+repository = "https://github.com/mezephyrus/copper-charcoal-theme"
